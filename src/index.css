@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Rubik&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-13cymwt-control {
+    height: 45px;
+}
